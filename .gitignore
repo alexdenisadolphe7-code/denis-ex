@@ -1,0 +1,6 @@
+application-backup/
+.openai/
+.vercel/
+outputs/
+node_modules/
+dist/

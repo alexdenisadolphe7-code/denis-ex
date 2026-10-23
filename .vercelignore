@@ -1,0 +1,5 @@
+application-backup/
+.openai/
+outputs/
+node_modules/
+dist/
